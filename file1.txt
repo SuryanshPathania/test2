@@ -1,0 +1,4 @@
+my first day of wipro training
+I am learning git commamnds
+exploring all the commands with hands on training
+
